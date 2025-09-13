@@ -1,0 +1,303 @@
+@media screen and (max-width: 1500px) {
+
+    h1 {
+        font-size: 40px !important;
+    }
+
+    .hero-img img {
+        padding-left: 6%;
+    }
+
+}
+
+@media screen and (max-width: 1370px) {
+    .navbar-brand img {
+        width: 200px;
+    }
+
+    .navbar-nav {
+        gap: 1.52rem;
+    }
+
+    .phone-link {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 1220px) {
+    .navbar-nav {
+        gap: 1rem;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .phone-link {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+}
+
+@media screen and (max-width: 1187px) {
+    .group-btn ul {
+        flex-wrap: wrap;
+    }
+
+    .group-btn ul li {
+        margin-bottom: 50px;
+    }
+
+    .hero-content img {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .hero {
+        height: auto;
+    }
+
+    .group-btn ul {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .hero-container {
+        height: auto;
+    }
+
+    .hero-content {
+        padding: 100px 0;
+        text-align: center;
+    }
+
+    .hero-img img {
+        padding: 0;
+    }
+
+    .same-day {
+        position: absolute;
+        left: 14%;
+        bottom: -39px;
+    }
+
+    .hero-img {
+        text-align: center;
+    }
+
+    .hero-img img {
+        display: none;
+    }
+
+    .section-padding {
+        padding: 50px 0;
+    }
+
+    h3 {
+        font-size: 25px !important;
+    }
+
+    .section-title-left h3 {
+        line-height: 35px;
+    }
+
+    .section-title-left {
+        width: 100%;
+    }
+
+    .how-work {
+        margin-bottom: 30px;
+    }
+
+    .service-box-container {
+        margin-bottom: 30px;
+    }
+
+    .center-title {
+        margin-bottom: 50px;
+    }
+
+    .work-image {
+        margin-bottom: 50px;
+    }
+
+    .steps {
+        padding-left: 0;
+    }
+
+    .steps::before {
+        left: 5%;
+    }
+
+    h2 {
+        font-size: 30px !important;
+    }
+
+    .faq-content {
+        margin-bottom: 50px;
+    }
+
+    .blog-content h4 {
+        color: #427101;
+        line-height: 34px;
+    }
+
+    .foter-container {
+        padding-left: 0;
+        padding-top: 30px;
+    }
+
+    .container {
+        max-width: 95% !important;
+        width: 1350px !important;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .hero-content img {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 34px !important;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+    }
+
+    .hero-content {
+        padding: 50px 0;
+    }
+
+    .hero-img img {
+        display: block;
+    }
+
+    .same-day {
+        display: none !important;
+    }
+
+    .hero {
+        padding-bottom: 50px;
+    }
+
+    .container {
+        max-width: 95% !important;
+        width: 1350px !important;
+    }
+
+    .hero-content img {
+        margin-top: 0px;
+    }
+
+    h3 {
+        font-size: 20px !important;
+    }
+
+    .section-title-left h3 {
+        line-height: 27px;
+        font-size: 18px !important;
+    }
+
+    .service-container {
+        margin-top: 5ch;
+    }
+
+    .section-title-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .service {
+        height: auto;
+    }
+
+    .section-title-left {
+        margin-bottom: 50px;
+    }
+    section.service.section-padding{
+        padding-bottom: 0;
+    }
+    .step-left {
+    height: 58px;
+}
+.steps::before {
+        left: 7%;
+    }
+    .cta-box-text{
+        text-align: center;
+    }
+    .cta-box-text h3 {
+    font-size: 25px !important;
+    line-height: 38px;
+}
+.cta-content{
+    padding: 0;
+}
+.cta-box p {
+    font-size: 16px;
+    line-height: 27px;
+}
+.cta-box{
+    padding: 25px 15px;
+}
+.foter-container{
+    flex-direction: column;
+}
+.footer-link{
+    width: 100%;
+}
+h4 {
+    font-weight: 600 !important;
+    font-size: 20px !important;
+}
+.blog-content{
+    padding: 25px 15px 50px;
+}
+.faq-container{
+    width: 100%;
+}
+.about-page .section-title-left h4 {
+    color: #1C2F02;
+    font-size: 18px!important;
+    line-height: 33px;
+}
+    h2 {
+        font-size: 25px !important;
+    }
+    .mission-content{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .mission-content p {
+    font-size: 18px;
+}
+.footer-about img {
+    width: 202px;
+    margin-bottom: 9px;
+}
+.footer-bottom p {
+    color: #fff;
+    padding: 0 15px;
+}
+.pest-libary-box {
+    margin-bottom: 0px;
+}
+.pest-libary-box p{
+    bottom: 35px;
+}
+.slide-container {
+    width: calc(13% * 20);
+}
+.slide-image{
+    padding: 10px;
+}
+.steps::before{
+    height: 85%;
+}
+.form-box{
+    margin: 0!important;
+}
+}
