@@ -65,7 +65,7 @@ p {
 }
 
 .hero {
-	height: 100vh;
+	
 	position: relative;
 	background: linear-gradient(180deg, #F3FFE3 0%, #DAFEA7 100%);
 }
@@ -159,7 +159,7 @@ p {
 
 /* hero */
 .hero-container {
-	height: 92vh;
+	padding: 100px 0;
 	display: flex;
 	align-items: center;
 
@@ -288,7 +288,7 @@ p {
 .service {
 	background: url(../images/service-bg.png) center center no-repeat fixed;
 	background-size: cover;
-	height: 55vh;
+	padding-bottom: 180px;
 }
 
 .service .section-title-left h3 {
@@ -378,13 +378,6 @@ p {
 
 .step-left {
 	position: relative;
-	width: 70px;
-	align-items: center;
-	display: flex;
-	justify-content: center;
-	height: 65px;
-	background: #8BC23E;
-	border-radius: 100%;
 }
 
 
@@ -404,17 +397,7 @@ p {
 	/* space for the line */
 }
 
-.steps::before {
-	content: "";
-	position: absolute;
-	top: 0;
-	left: 11%;
-	width: 1px;
-	height: 90%;
-	/* full height of container */
-	background: #8BC23E;
-	z-index: 0;
-}
+
 
 .step-box {
 	display: flex;
@@ -425,10 +408,12 @@ p {
 
 .step-left {
 	position: relative;
-	z-index: 1;
+}
+.step-left h2{
+		z-index: 1;
 	/* keeps circle above the line */
 	width: 70px;
-	height: 65px;
+	height: 70px;
 	background: #8BC23E;
 	border-radius: 50%;
 	display: flex;
@@ -436,7 +421,10 @@ p {
 	align-items: center;
 	font-weight: bold;
 	font-size: 20px;
+	position: relative;
 }
+
+
 
 .step-right {
 	margin-left: 20px;
