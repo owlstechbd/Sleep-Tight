@@ -17,26 +17,26 @@ const mainfooter = `
 						<div class="footer-link">
 							<h4>Explore</h4>
 							<ul>
-								<li><a href="#">Home</a></li>
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Pest Library </a></li>
-								<li><a href="#">Commercial </a></li>
-								<li><a href="#">Locations </a></li>
-								<li><a href="#">Blog </a></li>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="about-us.html">About Us</a></li>
+								<li><a href="pest-library.html">Pest Library </a></li>
+								<li><a href="commercial.html">Commercial </a></li>
+								<li><a href="location.html">Locations </a></li>
+								<li><a href="blog.html">Blog </a></li>
 							</ul>
 						</div>
 						<div class="footer-link">
 							<h4>Services</h4>
 							<ul>
-								<li><a href="#">Bed Bug Elimination</a></li>
-								<li><a href="#">Rodent Control & Exclusion</a></li>
-								<li><a href="#">General Pest</a></li>
+								<li><a href="bed-bug-elimination.html">Bed Bug Elimination</a></li>
+								<li><a href="rodent-control.html">Rodent Control & Exclusion</a></li>
+								<li><a href="general-pest.html">General Pest</a></li>
 							</ul>
 						</div>
 						<div class="footer-link">
 							<h4>Contact Info</h4>
 							<ul>
-								<li><a href="#">Phone: +1 773-240-5932</a></li>
+								<li><a href="tel:+1 773-240-5932">Phone: +1 773-240-5932</a></li>
 								<li><a href="#">Email: abc@gmail.com</a></li>
 								<li><a href="#">Hours: Open 24 hours</a></li>
 							</ul>
