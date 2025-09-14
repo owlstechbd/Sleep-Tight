@@ -732,6 +732,9 @@ p {
 	color: #fff;
 	text-align: center;
 }
+.why-title h1{
+	font-size: 45px!important;
+}
 
 .why-title p {
 	font-size: 25px;

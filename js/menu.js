@@ -34,7 +34,7 @@ const mainMenu = `
 							<a class="nav-link" href="location.html">Locations</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="blog-single.html">Blog</a>
+							<a class="nav-link" href="blog.html">Blog</a>
 						</li>
 						<li class="nav-item">
 							<a href="contact.html" class="phone-link">
